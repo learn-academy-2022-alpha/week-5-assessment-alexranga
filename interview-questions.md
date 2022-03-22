@@ -11,7 +11,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
   In Ruby, Blocks are code that is passed to a method.
 
   Researched answer:
-  Ruby has anonymous functions similar to JavaScript. They are called blocks. Blocks can be created with the do/end keywords OR with {}.
+  Ruby has anonymous functions similar to JavaScript. They are called blocks. Blocks can be created with the do/end keywords OR with curly braces.
 
 
 2. What is a gem?
@@ -54,7 +54,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 ## Looking Ahead: Terms for Next Week
 Research and define the following terms to the best of your ability.
 
-1. RESTful routes: REST stands for Representational State Transfer. REST is a pattern to follow when structuring routes between the server and the client. "RESTful routes" are an attempt to bring the operations that can be applied to an object into HTTP requests
+1. RESTful routes: REST stands for Representational State Transfer. REST is a pattern to follow when structuring routes between the server and the client. "RESTful routes" are an attempt to bring the operations that can be applied to an object into HTTP requests.
 
 2. JSON: JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. 
 

@@ -81,5 +81,7 @@ end
 # Expected output example: my_bike.brake(5) => 23
 # Expected output example: my_bike.brake(25) => 0
 
+# Expected output test: my_bike.brake(5) => 0
+
 
 
